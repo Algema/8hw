@@ -7,7 +7,7 @@ public class Main {
         int clientOS= 1;
         int clientDeviceYear = 2014;
         suggestVersion( clientOS,clientDeviceYear);
-        //task3
+        //task3.
         int deliveryDistance = 67;
         int deliveryDays = 0;
         //int countDeliveryDays = countDeliveryDays(deliveryDistance);
